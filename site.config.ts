@@ -23,6 +23,7 @@ export const site: SiteConfig = {
       { src: "/images/post-5.jpg", alt: "An Italian inspired grazing table with cheeses, sandwiches and fruit by The Event Diva", width: 640, height: 1136 },
       { src: "/images/post-8.jpg", alt: "A burgundy and green floral arrangement by The Event Diva", width: 720, height: 1280 },
     ],
+    primaryCta: { label: "Book now", href: "https://docs.google.com/forms/d/e/1FAIpQLSfW9Nm6WWg2idhFt6fiKEqoBVLh_QiR5iG9CAhTvlyGQIRaWg/viewform" },
     secondaryCta: { label: "See the work", href: "#gallery" },
   },
 
